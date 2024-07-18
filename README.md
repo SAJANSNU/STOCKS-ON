@@ -1,5 +1,5 @@
 # STOCKS-ON  - Predictive Analysis and Model Comparison for Tech Stocks
-Overview
+##Overview
 STOCKS-ON is a comprehensive stock price prediction project that leverages various machine learning models, including Long Short-Term Memory (LSTM), Support Vector Regression (SVR), Random Forest, and Gradient Boosting. The project focuses on predicting the stock prices of major tech companies such as Apple (AAPL), Google (GOOG), Tesla (TSLA), and Amazon (AMZN), and evaluates the performance of each model based on Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 
 Table of Contents
